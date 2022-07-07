@@ -3,5 +3,5 @@ For this project, I used react to create a cart shopping web site (dynamic). I h
 
 ## For this project, I used react as technology. 10 components.
 ### Basic commands:
-#### npx-create-app <my-app>
+#### npx create-react-app <my-app>
 #### npm start
